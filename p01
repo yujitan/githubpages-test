@@ -1,0 +1,23 @@
+[html title="”h2-tag.html”" language="highlight="]
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>Welcome to Pomeranian World</title>
+    </head>
+    <body>
+
+<h2>Nico</h2>
+
+        <img src="codecamp.png">
+
+
+小さいけど、チワワじゃないよ！
+
+
+
+いつかはサムエドになれるかな？
+
+    </body>
+</html>
+[/html]
